@@ -1,6 +1,6 @@
 # Image classification using Pytorch 
 #### Try youself: 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vaibhavingale-sjsu/deeplearning/blob/main/training.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vaibhavingale-sjsu/deeplearning/blob/main/image_classification/training.ipynb)
 
 
 ## Dataset: 
