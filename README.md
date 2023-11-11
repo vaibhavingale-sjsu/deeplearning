@@ -5,6 +5,6 @@ Compare various models for image classification using Pytorch with custom datase
 
 
 ## 2. Object Detection
-Train and evaluate object detection models using coco evaluation metrics.
+Train and evaluate object detection models and evaluate them using mAP metric.
 
 [Object Detection](object_detection/README.md)
